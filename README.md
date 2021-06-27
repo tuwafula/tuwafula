@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuwafula
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python and other interesting projects
+- 💞️ I’m looking to collaborate in python and other interesting projects
 - 📫 How to reach me Twitter @tushde6, Instagram @tush_de
 
 <!---
