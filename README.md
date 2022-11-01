@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tuwafula
-- 👀 I’m interested in programming
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in python and other interesting projects
-- 📫 How to reach me Twitter @tushde6, Instagram @tush_de
+- 📫 How to reach me Twitter @___agw, Instagram @dfw_aggrey
 
 <!---
 tuwafula/tuwafula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
