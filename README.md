@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuwafula
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in FullStack Web development
+- 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate in python and other interesting projects
 - 📫 How to reach me Twitter @___agw, Instagram @dfw_aggrey
 
