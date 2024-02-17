@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Django**
 
-- 🤝 I’m looking for help with **Java**
+- 🤝 I’m looking for help with **Golang**
 
 - 💬 Ask me about **JavaScript, Python**
 
